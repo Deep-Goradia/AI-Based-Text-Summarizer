@@ -4,4 +4,4 @@ A simple yet powerful Python project that automatically generates concise summar
 
 This project demonstrates the use of Artificial Intelligence and Natural Language Processing to enhance text understanding and information extraction.
 
-Make sure to create the files input_para.txt and summary.txt , else the program will throw the missing file error. The output will be given into the "summary.txt" file.
+Make sure to create the files (in the same directory) input_para.txt and summary.txt , else the program will throw the missing file error. The output will be given into the "summary.txt" file.
