@@ -2,7 +2,7 @@ from summarizer import Summarizer
 
 def main():
     # Read input from file
-    with open("sample.txt", "r", encoding="utf-8") as f:
+    with open("input_para.txt", "r", encoding="utf-8") as f:
         text = f.read()
 
     summarizer = Summarizer()
@@ -20,5 +20,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
